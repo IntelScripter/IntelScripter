@@ -16,6 +16,9 @@ I started coding a few years ago and have been coding numerous projects since. I
 </p>
 
 
+     
+     
+     
 ![stats](https://github-readme-stats.vercel.app/api?username=IntelScripter&show_icons=true&theme=merko)
      
 ![more stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IntelScripter&layout=compact&theme=merko)
