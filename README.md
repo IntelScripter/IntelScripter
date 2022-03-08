@@ -3,7 +3,7 @@
 <h1>
 
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2307F7AC&width=300&height=30&lines=vibin%233270"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2307F7AC&center=true&width=300&height=30&lines=vibin%233270"></a>
 </p>
     
 <h3 align="center">
